@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
 
 	// /////////////////////////////////////////////////////////////////////////////////////////////////
 	// add constant here
+    private static final int MYGIT=0;
 	private static final int TBS_WEB = 0;
 	private static final int FULL_SCREEN_VIDEO = 1;
 	private static final int FILE_CHOOSER = 2;
